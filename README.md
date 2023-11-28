@@ -44,11 +44,15 @@ Sistem Manajemen Persediaan adalah aplikasi berbasis web yang dirancang untuk me
 ![Reports Page](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/Reports.png)
 
 
-## ⌗ Entity Relationship Diagram
+## ⌗ Entity Relationship Diagram & Flowchart
+* ERD
 ![ERD](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/erd.png)
+* Structure
 ![structure](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/Screenshot%20(363).png)
+* ERD Primary Keys on PHPmyadmin
 ![ERD PrimaryKeys](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/Screenshot%20(362).png)
-
+* Flowchart
+![flowchart](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/flowchart.jpg)
 
 ## 📜 Fitur Utama
 * Pencatatan Barang
