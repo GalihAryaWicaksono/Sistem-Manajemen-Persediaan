@@ -10,6 +10,15 @@ Kelas A<br>
 ## ℹ️ Deskripsi
 Sistem Manajemen Persediaan adalah aplikasi berbasis web yang dirancang untuk membantu dalam mengelola dan mengawasi persediaan barang dalam suatu organisasi atau perusahaan. Selain itu, sistem ini juga memiliki kemampuan untuk memantau dan mencatat penjualan dan pembelian barang.
 
+## 📜 Fitur Utama
+* Pencatatan Barang
+* Pencatatan Pembelian
+* Pencatatan Vendor
+* Pencatatan Penjualan
+* Pencatatan Customer
+* Fitur Pencarian
+* Laporan
+
 ## 🔎 Overview
 * Log In Page<br>
   Sebelum mulai menggunakan sistem, Anda diharuskan untuk log in atau registrasi jika belum memiliki akun.
@@ -53,15 +62,6 @@ Sistem Manajemen Persediaan adalah aplikasi berbasis web yang dirancang untuk me
 ![ERD PrimaryKeys](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/Screenshot%20(362).png)
 * Flowchart
 ![flowchart](https://github.com/GalihAryaWicaksono/Sistem-Manajemen-Persediaan/blob/main/Screenshots/flowchart.jpg)
-
-## 📜 Fitur Utama
-* Pencatatan Barang
-* Pencatatan Pembelian
-* Pencatatan Vendor
-* Pencatatan Penjualan
-* Pencatatan Customer
-* Fitur Pencarian
-* Laporan
 
 
 ## 💻 Dibuat dengan
