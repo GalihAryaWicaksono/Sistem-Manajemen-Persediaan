@@ -1,4 +1,4 @@
-# Sistem Informasi Akuntansi - Sistem Manajemen Persediaan
+# Sistem Informasi Akuntansi - Sistem Manajemen Persediaan - Galih Arya Wicaksono
 
 ## 📖 Pendahuluan
 Dibuat untuk memenuhi tugas mata kuliah Sistem Informasi Akuntansi
